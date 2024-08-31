@@ -4,7 +4,7 @@ Released just in time for Miku's 2024 birthday, fcp-trial-crack-shortcut is an A
 ## Instructions
 
 * Install Final Cut Pro Trial on Mac
-* Add the shortcut
+* Download/Add the shortcut
 * Enable terminal commands and deletion of items in shortcuts settings.
 * Optionally add to dock for easy access.
 * Open using the shortcut to open Final Cut Pro instead of the main app
