@@ -1,5 +1,5 @@
 # fcp-trial-crack-shortcut
-Released in time for Miku's 2024 birthday, fcp-trial-crack-shortcut is an Apple shortcut script to reset Final Cut Pro's trial on macOS.
+Released just in time for Miku's 2024 birthday, fcp-trial-crack-shortcut is an Apple shortcut script to reset Final Cut Pro's trial on macOS.
 
 ## Instructions
 
